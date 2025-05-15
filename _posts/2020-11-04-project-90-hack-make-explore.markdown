@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Método Hack | Make | Explore
-modal-id: 14
+modal-id: 90
 img: hack-make-explore.png
 alt: Método Hack | Make | Explore
 target: https://mc-unicamp.github.io/oficinas/hme/

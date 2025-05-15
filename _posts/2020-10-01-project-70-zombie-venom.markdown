@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zombie Venom
-modal-id: 10
+modal-id: 70
 img: zombie-venom.png
 alt: Zombie Venom
 target: https://bit.ly/museu-zumbi
