@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Equilíbrio Ecológico
-modal-id: 11
+modal-id: 43
 img: equilibrio-ecologico.png
 alt: Equilíbrio Ecológico
 target: https://mc-unicamp.github.io/oficinas/simula/equilibrio/
