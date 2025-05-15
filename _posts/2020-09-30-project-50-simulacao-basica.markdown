@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Simulação Básica
-modal-id: 13
+modal-id: 50
 img: simulacao-basica.png
 alt: Simulação Básica
 target: https://mc-unicamp.github.io/oficinas/simula/automatos/
